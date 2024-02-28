@@ -1,15 +1,19 @@
 ### Site Settings ###
-title               : Dery's Page
+title               : Daffa Rayhan Riadi
 description         : >-
+                      You can call me Daffa or Daf, 
+                      
                       I'm Bachelor of Computer Science at Software Engineering Department,
 
-                      Android Developer Associate at LinkAja,
+                      Specialized on Machine Learning
 
-                      Facilitator and Mentor in Bangkit 2022 led by Google, GoTo, and Traveloka
+                      Certified TensorFlow Developer,
+
+                      Bangkit 2023 H1 led by Google, GoTo, and Traveloka Graduate - Machine Learning 
                       
-                      Also an Android Enthusiasm, I Love Android very much :heart:
+                      Also an AI Enthusiasm, I Love AI very much :heart:
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : derysudrajat/derysudrajat.github.io    # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+repository          : daffarayhanriadi/daffarayhanriadi.github.io    # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
@@ -29,24 +33,24 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : Dery Sudrajat
+  name              : Daffa Rayhan Riadi
   image             : https://user-images.githubusercontent.com/32610660/185723140-d9b27f7e-13d0-4a41-a885-58f915aa0c8e.png
 # behance           : your_username
 # dribbble          : your_username
-  email             : dery.sudrajat17@gmail.com
+  email             : daffarayhanriadi@gmail.com
 # facebook          : your_username
-  github            : derysudrajat
+  github            : daffarayhanriadi
 # gitlab            : your_username
-  instagram         : derysudrajat
+  instagram         : drriadi
 # kaggle            : your_username
-  linkedin          : derysudrajat
-  medium            : derysudrajat
+  linkedin          : daffarayhanriadi
+# medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : _derysudrajat
+# twitter           : your_username
 # vimeo             : your_username
 # youtube           : your_channel_name
 # keybase           : your_username
