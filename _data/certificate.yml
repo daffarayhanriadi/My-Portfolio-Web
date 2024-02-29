@@ -1,76 +1,202 @@
-- name: Belajar Android Jetpack Pro
-  date: May 2021 - May 2024
-  provider: Dicoding Indonesia
-  image: https://user-images.githubusercontent.com/32610660/118436619-4f6d0480-b70b-11eb-8611-4b2f2de4cbe4.png
-  credential: EYX4R5LVRXDL
-  external_url: https://www.dicoding.com/certificates/EYX4R5LVRXDL
-
-- name: Programmer
-  date: Jan 2021 - Jan 2024
-  provider: Badan Nasional Sertifikasi Profesi
-  image: https://user-images.githubusercontent.com/32610660/116735329-89a28a80-aa18-11eb-883e-5a357b1438e4.png
-  credential: 62019251482162021
-  external_url: https://github.com/derysudrajat/derysudrajat.github.io/files/6407137/Sertifikat.Uji.Kompetensi.pdf
-
-- name: Belajar Fundamental Aplikasi Android
-  date: Oct 2020 - Oct 2023
-  provider: Dicoding Indonesia
-  image: https://user-images.githubusercontent.com/32610660/116734194-51e71300-aa17-11eb-9ee8-e04c5a903a18.png
-  credential: EYX4RY55RXDL
-  external_url: https://www.dicoding.com/certificates/EYX4RY55RXDL
-
-- name: Belajar Membuat Aplikasi Android untuk Pemula
-  date: Aug 2020 -Aug 2023
-  provider: Dicoding Indonesia
-  image: https://user-images.githubusercontent.com/32610660/116734044-19dfd000-aa17-11eb-8c93-943bff46d02e.png
-  credential: 2RVZKNYKNZD5
-  external_url: https://www.dicoding.com/certificates/2RVZKNYKNZD5
-
-- name: Belajar Prinsip Pemgrograman Solid
-  date: Oct 2020 - Oct 2023
-  provider: Dicoding Indonesia
-  image: https://user-images.githubusercontent.com/32610660/116731133-8527a300-aa13-11eb-9fbe-b8662e2fa774.png
-  credential: G4EXGMJOGXRL
-  external_url: https://www.dicoding.com/certificates/G4EXGMJOGXRL
-
-- name: Memulai Pemrograman Dengan Kotlin
-  date: Aug 2020 - Aug 2023
-  provider: Dicoding Indonesia
-  image: https://user-images.githubusercontent.com/32610660/116733910-e8ff9b00-aa16-11eb-9de8-45923c5183fc.png
-  credential: N72ZDGW96ZYW
-  external_url: https://www.dicoding.com/certificates/N72ZDGW96ZYW
-
 - name: Belajar Dasar Visualisasi Data
-  date: May 2020 - May 2023
+  date: Feb 2024 - Feb 2027
   provider: Dicoding Indonesia
-  image: https://user-images.githubusercontent.com/32610660/116733745-adfd6780-aa16-11eb-889e-dbe950b88854.png
-  credential: RVZK4R8QEPD5
-  external_url: https://www.dicoding.com/certificates/RVZK4R8QEPD5
+  image: https://github.com/daffarayhanriadi/daffarayhanriadi.github.io/assets/77198942/733c3b51-c4e0-4ef9-b5b4-bd599133b2eb
+  credential: 1OP8NJ91QXQK
+  external_url: https://www.dicoding.com/certificates/1OP8NJ91QXQK
 
 - name: Belajar Machine Learning untuk Pemula
-  date: May 2020 - May 2023
+  date: Feb 2024 - Feb 2027
   provider: Dicoding Indonesia
-  image: https://user-images.githubusercontent.com/32610660/116733513-624abe00-aa16-11eb-9a14-6539a94ecf94.png
-  credential: MEPJ5NY0WP3V
-  external_url: https://www.dicoding.com/certificates/MEPJ5NY0WP3V
+  image: https://github.com/daffarayhanriadi/daffarayhanriadi.github.io/assets/77198942/5c84f913-e02a-457c-8a9d-25236250b39c
+  credential: KEXL8VE0RZG2
+  external_url: https://www.dicoding.com/certificates/KEXL8VE0RZG2
 
-- name: Memulai Pemrograman Dengan Python
-  date: March 2020 - March 2025
+- name: Memulai Pemrograman dengan Python
+  date: Feb 2024 - Feb 2027
   provider: Dicoding Indonesia
-  image: https://user-images.githubusercontent.com/32610660/116733059-d33da600-aa15-11eb-930f-acdf43ec751e.png
-  credential: 2VX3NRO3JXYQ
-  external_url: https://www.dicoding.com/certificates/2VX3NRO3JXYQ
+  image: https://github.com/daffarayhanriadi/daffarayhanriadi.github.io/assets/77198942/bf11106e-dc20-427e-a9a7-aad449ec4e75
+  credential: 2VX3OLOQ4ZYQ
+  external_url: https://www.dicoding.com/certificates/2VX3OLOQ4ZYQ
 
-- name: Belajar Membuat Augmented Reality
-  date: Oct 2019 - Oct 2022
+- name: TensorFlow Developer Certificate
+  date: Dec 2023 - Dec 2026
+  provider: TensorFlow Certificate Program
+  image: https://github.com/daffarayhanriadi/daffarayhanriadi.github.io/assets/77198942/03d5d1cf-40c5-416d-801b-a3e8de2ba6f5
+  credential: 88567653
+  external_url: https://www.credential.net/a24a877e-6e78-4ccc-863d-7ecfaa3dd0e4
+
+- name: Belajar Dasar Data Science
+  date: Nov 2023 - Nov 2026
   provider: Dicoding Indonesia
-  image: https://user-images.githubusercontent.com/32610660/116732116-dab07f80-aa14-11eb-87f0-f655c5a2180a.png
-  credential: KEXL4VV3YXG2
-  external_url: https://www.dicoding.com/certificates/KEXL4VV3YXG2
+  image: https://github.com/daffarayhanriadi/daffarayhanriadi.github.io/assets/77198942/2d4cc6ad-433a-4df9-b6f0-28cbfe362e72
+  credential: 6RPN4E6YQX2M
+  external_url: https://www.dicoding.com/certificates/6RPN4E6YQX2M
+
+- name: Belajar Dasar Manajemen Proyek
+  date: Nov 2023 - Nov 2026
+  provider: Dicoding Indonesia
+  image: https://github.com/daffarayhanriadi/daffarayhanriadi.github.io/assets/77198942/c2262523-2d69-4665-aef4-34aab7047d12
+  credential: 1RXY08OEMZVM
+  external_url: https://www.dicoding.com/certificates/1RXY08OEMZVM
+
+- name: Belajar Dasar Structured Query Language (SQL)
+  date: Nov 2023 - Nov 2026
+  provider: Dicoding Indonesia
+  image: https://github.com/daffarayhanriadi/daffarayhanriadi.github.io/assets/77198942/1e761d4d-ea5f-4a62-b615-f5d413f44497
+  credential: 07Z6WKEWWZQR
+  external_url: https://www.dicoding.com/certificates/07Z6WKEWWZQR
+
+- name: Natural Language Processing Specialization
+  date: Aug 2023
+  provider: DeepLearning.AI
+  image: https://github.com/daffarayhanriadi/daffarayhanriadi.github.io/assets/77198942/1ee3cfa8-7980-44dc-a4e7-409bff11924d
+  credential: CAULUJWSCPTY
+  external_url: https://www.coursera.org/account/accomplishments/specialization/CAULUJWSCPTY
+
+- name: Google Data Analytics Specialization
+  date: Jul 2023
+  provider: Google
+  image: https://github.com/daffarayhanriadi/daffarayhanriadi.github.io/assets/77198942/e22f47a1-a26e-4fdc-b9e3-de7837d58635
+  credential: EXXAMMPUDH45
+  external_url: https://www.coursera.org/account/accomplishments/specialization/EXXAMMPUDH45
+
+- name: Google IT Automation with Python Specialization
+  date: Jul 2023
+  provider: Google
+  image: https://github.com/daffarayhanriadi/daffarayhanriadi.github.io/assets/77198942/ea6dda8d-83be-42ea-b014-718d541c1e8a
+  credential: 824GFZFVZZ4F
+  external_url: https://www.coursera.org/account/accomplishments/specialization/824GFZFVZZ4F
   
-- name: Belajar Dasar Pemrograman Web
-  date: Sep 2019 - Sep 2022
+- name: TensorFlow: Advanced Techniques Specialization
+  date: Jul 2023
+  provider: DeepLearning.AI
+  image: https://github.com/daffarayhanriadi/daffarayhanriadi.github.io/assets/77198942/43f1fc3c-7d30-4d5e-a0e0-25aaee3a9289
+  credential: GBYASV8MDLNX
+  external_url: https://www.coursera.org/account/accomplishments/specialization/GBYASV8MDLNX
+
+- name: DeepLearning.AI TensorFlow Developer Specialization
+  date: May 2023
+  provider: DeepLearning.AI
+  image: https://github.com/daffarayhanriadi/daffarayhanriadi.github.io/assets/77198942/73504a59-cc55-4594-aba0-bfea0028b796
+  credential: 2WPLY53X4XS9
+  external_url: https://www.coursera.org/account/accomplishments/specialization/2WPLY53X4XS9
+
+- name: Structuring Machine Learning Projects
+  date: May 2023
+  provider: DeepLearning.AI
+  image: https://github.com/daffarayhanriadi/daffarayhanriadi.github.io/assets/77198942/7c8171c3-ce26-475a-8130-7f509b5b155b
+  credential: K4W63QMHBCLA
+  external_url: https://www.coursera.org/account/accomplishments/records/K4W63QMHBCLA
+
+- name: TensorFlow: Data and Deployment Specialization
+  date: May 2023
+  provider: DeepLearning.AI
+  image: https://github.com/daffarayhanriadi/daffarayhanriadi.github.io/assets/77198942/a0b3480d-4d58-4e9c-924f-1232f957697f
+  credential: R8V3AWHRK3XD
+  external_url: https://www.coursera.org/account/accomplishments/specialization/R8V3AWHRK3XD
+
+- name: Machine Learning Specialization
+  date: Apr 2023
+  provider: DeepLearning.AI
+  image: https://github.com/daffarayhanriadi/daffarayhanriadi.github.io/assets/77198942/c245e5a8-fa15-4121-b018-d47f080294c0
+  credential: KNAFFE2ZXDTM
+  external_url: https://www.coursera.org/account/accomplishments/specialization/KNAFFE2ZXDTM
+
+- name: Mathematics for Machine Learning Specialization
+  date: Apr 2023
+  provider: Imperial College London
+  image: https://github.com/daffarayhanriadi/daffarayhanriadi.github.io/assets/77198942/f3f4e269-8182-4492-b59d-e5b350b78d59
+  credential: PDRTX35YLVBJ
+  external_url: https://www.coursera.org/account/accomplishments/specialization/PDRTX35YLVBJ
+
+- name: Belajar Dasar Git dengan GitHub
+  date: Feb 2023 - Feb 2026
   provider: Dicoding Indonesia
-  image: https://user-images.githubusercontent.com/32610660/116731967-9f15b580-aa14-11eb-890b-4fcbe6b5ddc5.png
-  credential: 81P21Q9NQZOY
-  external_url: https://www.dicoding.com/certificates/81P21Q9NQZOY
+  image: https://github.com/daffarayhanriadi/daffarayhanriadi.github.io/assets/77198942/83fec51c-ec99-4bb5-b280-49254e27b9dd
+  credential: ERZR0DDKWXYV
+  external_url: https://www.dicoding.com/certificates/ERZR0DDKWXYV
+
+- name: Memulai Dasar Pemrograman untuk Menjadi Pengembang Software
+  date: Feb 2023 - Feb 2026
+  provider: Dicoding Indonesia
+  image: https://github.com/daffarayhanriadi/daffarayhanriadi.github.io/assets/77198942/40fd8f60-8814-448d-9588-25a7af73742b
+  credential: MRZM4RE0RXYQ
+  external_url: https://www.dicoding.com/certificates/MRZM4RE0RXYQ
+
+- name: Pengenalan ke Logika Pemrograman (Programming Logic 101)
+  date: Feb 2023 - Feb 2026
+  provider: Dicoding Indonesia
+  image: https://github.com/daffarayhanriadi/daffarayhanriadi.github.io/assets/77198942/d84385e4-b9a4-46c1-b564-05a7433362a6
+  credential: N9ZO4LN7DZG5
+  external_url: https://www.dicoding.com/certificates/N9ZO4LN7DZG5
+
+- name: Introduction to Data Science with Python
+  date: Jan 2023
+  provider: DQLab
+  image: https://github.com/daffarayhanriadi/daffarayhanriadi.github.io/assets/77198942/7ccf9c22-e40a-4922-a532-d59fc5687cb0
+  credential: DQLABINTP1PUPAQC
+  external_url: https://academy.dqlab.id/certificate/pdf/DQLABINTP1PUPAQC
+
+- name: Belajar Fundamental Front-End Web Development
+  date: Dec 2022 - Dec 2025
+  provider: Dicoding Indonesia
+  image: https://github.com/daffarayhanriadi/daffarayhanriadi.github.io/assets/77198942/07e278dc-7da4-4800-ba24-de08263cf524
+  credential: EYX490376PDL
+  external_url: https://www.dicoding.com/certificates/EYX490376PDL
+
+- name: Evaluasi Penguasaan Machine Learning
+  date: Dec 2022 - Dec 2025
+  provider: Dicoding Indonesia
+  image: https://github.com/daffarayhanriadi/daffarayhanriadi.github.io/assets/77198942/73ef5b67-6612-41f4-ad61-71f7608d9b3a
+  credential: N9ZO4OWVDZG5
+  external_url: https://www.dicoding.com/certificates/N9ZO4OWVDZG5
+
+- name: Introduction to Python
+  date: Dec 2022
+  provider: DataCamp
+  image: https://github.com/daffarayhanriadi/daffarayhanriadi.github.io/assets/77198942/41ce0975-3575-4712-a815-9760197b286f
+  credential: 5f60e31331e369ef40a814eb14d407f9fd43d13c
+  external_url: https://www.datacamp.com/statement-of-accomplishment/course/5f60e31331e369ef40a814eb14d407f9fd43d13c
+
+- name: Machine Learning Terapan
+  date: Dec 2022 - Dec 2025
+  provider: Dicoding Indonesia
+  image: https://github.com/daffarayhanriadi/daffarayhanriadi.github.io/assets/77198942/9b6387f1-e9b1-4ba9-9977-4202712774c2
+  credential: EYX49041RPDL
+  external_url: https://www.dicoding.com/certificates/EYX49041RPDL
+
+- name: Belajar Dasar Pemrograman Web
+  date: Nov 2022 - Nov 2025
+  provider: Dicoding Indonesia
+  image: https://github.com/daffarayhanriadi/daffarayhanriadi.github.io/assets/77198942/bd589f00-f3d4-4f34-a653-b26d41679b58
+  credential: 6RPN64J4QP2M
+  external_url: https://www.dicoding.com/certificates/6RPN64J4QP2M
+
+- name: Belajar Membuat Front-End Web untuk Pemula
+  date: Nov 2022 - Nov 2025
+  provider: Dicoding Indonesia
+  image: https://github.com/daffarayhanriadi/daffarayhanriadi.github.io/assets/77198942/22abdbd2-d4e3-4729-9774-904383c93c25
+  credential: EYX49YDY6PDL
+  external_url: https://www.dicoding.com/certificates/EYX49YDY6PDL
+
+- name: Belajar Pengembangan Machine Learning
+  date: Nov 2022 - Nov 2025
+  provider: Dicoding Indonesia
+  image: https://github.com/daffarayhanriadi/daffarayhanriadi.github.io/assets/77198942/bb1e7f93-64e9-4c3e-873e-59b0ff8784e0
+  credential: 72ZD987LQPYW
+  external_url: https://www.dicoding.com/certificates/72ZD987LQPYW
+
+- name: Meniti Karier sebagai Software Developer
+  date: Nov 2022 - Nov 2025
+  provider: Dicoding Indonesia
+  image: https://github.com/daffarayhanriadi/daffarayhanriadi.github.io/assets/77198942/17b9a470-7642-4b9a-abd1-84465eec8913
+  credential: 4EXG94D4QZRL
+  external_url: https://www.dicoding.com/certificates/4EXG94D4QZRL
+
+- name: Pengenalan Data pada Pemrograman (Data 101)
+  date: Apr 2022 - Apr 2025
+  provider: Dicoding Indonesia
+  image: https://github.com/daffarayhanriadi/daffarayhanriadi.github.io/assets/77198942/eaed3631-fc79-4fa4-9a07-70d2a42c1cda
+  credential: NVP7KG7JOZR0
+  external_url: https://www.dicoding.com/certificates/NVP7KG7JOZR0
