@@ -2,6 +2,6 @@
   percentage: 100
   color: danger
 
-- name: Engilish (TOEFL 550)
-  percentage: 85
+- name: English (Limited working proficiency)
+  percentage: 70
   color: info
