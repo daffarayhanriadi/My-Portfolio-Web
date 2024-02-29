@@ -8,11 +8,10 @@ weight: 4
 # **About Me** 
 
 Hi I am **{{ site.author.name }}** :wave:,<br><br>
-Bachelor of Computer Science at the Software Engineering Department, Faculty of Informatics, Telkom Institute of Technology, has a lot of experience in working on Android-based projects and teaches as an assistant professor and lab in the Mobile Development subject. Aspire to be a developer in Silicon Valley, a researcher, and a technopreneur in the future and embody a diligent personality and a passion for learning.<br><br>
-- I also Android Enthusiasm and currently as Android Developer Associate at LinkAja
-- Mentor & Facilitator in Mobile Developer in Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka
+Bachelor of Computer Science at the Software Engineering Department, Faculty of Informatics, Telkom Institute of Technology, has experience in working on Machine Learning projects.<br><br>
+- I also AI Enthusiasm
 
-{% include elements/button.html link="https://github.com/derysudrajat/derysudrajat.github.io/raw/new-pages/assets/CV%20Dery%20Sudrajat%20-%20Android%20Developer.pdf" text="Download CV" %}
+{% include elements/button.html link="https://drive.google.com/drive/folders/1ZbwkoS3jNR8ZtMOoRGqOYrTGMVX7G9Nk?usp=sharing" text="Download CV" %}
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
@@ -25,8 +24,8 @@ Bachelor of Computer Science at the Software Engineering Department, Faculty of 
     <div class="timeline-item">
         <div class="content">
           <h2>Telkom Insitute of Technology, Indonesia</h2>
-          <h6 class="date">2017 - 2021</h6>
-          <p>Bachelor of Computer Science at Software Engineering Department, Faculty of Informatics, as Best Graduate in Academics 2021 with a GPA of 3.95 out of 4.0, and also become The Most Outstanding Student in 2019.</p>
+          <h6 class="date">2020 - 2024</h6>
+          <p>Bachelor of Computer Science at Software Engineering Department, Faculty of Informatics, as Graduate in Academics 2024 with a GPA of 3.89 out of 4.0</p>
         </div>
       </div>
 </div>
